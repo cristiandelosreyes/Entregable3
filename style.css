@@ -11,7 +11,7 @@ body {
   border: 2px solid black;
   border-radius: 40px;
   margin: 10px;
-  background-image: url(talento\ tech.jpg);
+  background-image: url(tech.jpg);
   background-size: cover;
 }
 h1 {
@@ -147,7 +147,7 @@ td {
   align-items: center;
   width: 200px;
   height: 300px;
-  margin: 25px 300px 34px 90px;
+  margin: 25px 30px 34px 90px;
   border: 4px double #07f107;
   border-radius: 15px;
   padding: 30px;
